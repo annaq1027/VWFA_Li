@@ -29,5 +29,5 @@ Contains data for the timecourse plots:
 
 ## VTC_gradient_4categories_sig2.mat
 Contains data for the VTC gradient plots (Figure 5):
-- **Note**: Raw psc and psc with outlier removed (`psc_noout`) (reported in the manuscript) are both included.
+
 
