@@ -2,6 +2,7 @@
 Repository For
 > Li, J., Hiersche, K., Saygin, Z.M. (2024) Demystifying the Visual Word Form Area: Precision fMRI of Visual, Linguistic, and Attentional Properties of Ventral Temporal Cortex. https://www.biorxiv.org/content/10.1101/2023.06.15.544824v1
 # Data Structures Overview
+Note: For all data files containing percent signal changes (PSCs):  fieldname ‘psc’ refers to raw psc data and filedname and ‘psc_noout’ refers to data after removing outliers. In manuscript, we reported results with outlier removed.
 ## psc_selectivity_data.mat
 This file contains two data structures:
 
