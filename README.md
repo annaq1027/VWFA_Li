@@ -28,6 +28,6 @@ Contains data for the timecourse plots:
 - For each fROI: nTR x nConditions x nSubs
 
 ## VTC_gradient_4categories_sig2.mat
-Contains data for the VTC gradient plots (Figure 5):
+Contains data for the VTC gradient plots (Figure 5)
 
 
